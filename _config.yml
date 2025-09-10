@@ -6,3 +6,5 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+
+exclude: general-product-notes.md
