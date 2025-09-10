@@ -1,3 +1,8 @@
+---
+layout: default
+title: General Technical Notes
+---
+
 # General Technical Notes for SFX Sequencer and Remote
 
 ## Common Radio Settings
