@@ -1,4 +1,4 @@
-title: EasyPyro Documentation Site
+title: EasyPyro Documentation
 theme: minima   # GitHub’s default theme
 plugins:
   - jekyll-relative-links
