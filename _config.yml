@@ -7,4 +7,5 @@ relative_links:
   enabled: true
   collections: true
 
-exclude: general-product-notes.md
+exclude:
+   - general-product-notes.md
