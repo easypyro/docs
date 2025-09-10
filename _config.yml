@@ -1,3 +1,5 @@
+title: My Markdown Site
+theme: minima   # GitHub’s default theme
 plugins:
   - jekyll-relative-links
 relative_links:
