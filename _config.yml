@@ -1,9 +1,7 @@
-title: My Markdown Site
+title: EasyPyro Documentation Site
 theme: minima   # GitHub’s default theme
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
-include:
-  - index.md
