@@ -1,4 +1,4 @@
-# General Technical Notes for SFX Sequencer & Remote
+# General Technical Notes for SFX Sequencer and Remote
 
 ## Common Radio Settings
 
@@ -45,9 +45,4 @@ Explanation from Erlend: Basically when sequencer is in bond mode it requests bo
 
 ### Channel Self Test
 
-Flash red channel LED when Driver is shorted ON. Note that this will not catch a Driver gate stuck ON (and thus Driver ON) when not in SEQ ARM because V_FIRE rail is only at about 2.5V and won't switch on the MOSFET in the Driver. So, user should be advised to SEQ ARM before any pyro is connected to truly see if there is a Driver stuck ON. 
-
-
-
-
-
+Flash red channel LED when Driver is shorted ON. Note that this will not catch a Driver gate stuck ON (and thus Driver ON) when not in SEQ ARM because V_FIRE rail is only at about 2.5V and won't switch on the MOSFET in the Driver. So, user should be advised to SEQ ARM before any pyro is connected to truly see if there is a Driver stuck ON.
