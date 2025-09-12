@@ -34,13 +34,13 @@ Disposable Lithium batteries give several advantages over normal Alkaline batter
 
 >⚠️ **Note:** Back-rotate screws until you feel the threads engage, then hand tighten. This will prevent the threads from being stripped in the enclosure after repeated use. 
 
-![IMG_2355](https://github.com/easypyro/firestorm/assets/149492801/0ff0572a-0b3f-4ef9-99dd-3682c9e55528)
-![IMG_2356](https://github.com/easypyro/firestorm/assets/149492801/8b6dd6ca-216a-415c-9815-17975744b3d5)
+![IMG_2355](/images/rx1-battery-panel-1.jpg)
+![IMG_2356](/images/rx1-battery-panel-1.jpg)
 
 ### RX6 Battery Install
 
-![IMG_2352](https://github.com/easypyro/firestorm/assets/149492801/78dfb68e-6bd0-4198-93d0-b92cd8a7ffcd)
-![IMG_2354](https://github.com/easypyro/firestorm/assets/149492801/69340417-84d4-48c6-af71-f43373443b3e)
+![IMG_2352](/images/rx6-battery-panel-1.jpg)
+![IMG_2354](/images/rx6-battery-panel-2.jpg)
 
 ## Initial Setup
 
