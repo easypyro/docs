@@ -1,5 +1,8 @@
 # FireStorm Firing System User Guide
 
+* TOC
+{:toc}
+
 ## Introduction
 Thank you for purchasing a FireStorm Firing System. This firing system is designed for the safe and reliable wireless control of fireworks and pyrotechnics.
 
@@ -136,4 +139,3 @@ You can bond the firing modules as many times as you like to reconfigure your fi
 ##RX6 Firing Module
 
 ##RX36 Firing Module
-
