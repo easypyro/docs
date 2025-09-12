@@ -1,5 +1,5 @@
-* Table of Contents
-{:toc max_level="2"}
+* TOC
+{:toc max_level="3"}
 # FireStorm Firing System User Guide
 
 ## Introduction
