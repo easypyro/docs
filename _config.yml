@@ -1,6 +1,6 @@
 title: EasyPyro Documentation
 description: User guides and product technical information is available here. 
-theme: minima   # GitHub’s default theme
+theme: primer   # GitHub’s default theme
 plugins:
   - jekyll-relative-links
 relative_links:
