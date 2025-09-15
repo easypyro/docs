@@ -1,6 +1,9 @@
 title: EasyPyro Documentation
 description: User guides and product technical information is available here. 
 # theme: primer
+
+url: "https://docs.easypyro.com"
+baseurl: ""
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
   - jekyll-relative-links
