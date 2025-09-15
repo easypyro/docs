@@ -1,5 +1,3 @@
-* TOC
-{% toc max_level:2 %}
 # FireStorm Firing System User Guide
 
 ## Introduction
