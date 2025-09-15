@@ -9,6 +9,10 @@ plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
   - jekyll-toc
+
+# Disable GitHub metadata since we don't need it
+github_metadata: false
+
 relative_links:
   enabled: true
   collections: true
