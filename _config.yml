@@ -2,7 +2,8 @@ title: EasyPyro Help Documentation
 description: User guides and product technical information. 
 url: "https://docs.easypyro.com" # my custom domain
 baseurl: "" # leave empty for custom domain
-remote_theme: pages-themes/primer@v0.6.0
+theme: minimal
+#remote_theme: pages-themes/primer@v0.6.0
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
@@ -10,6 +11,5 @@ plugins:
 # relative_links:
   # enabled: true
   # collections: true
-
 exclude:
    - general-product-notes.md
