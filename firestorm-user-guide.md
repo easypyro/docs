@@ -1,3 +1,6 @@
+---
+hide_title: true
+---
 # FireStorm Firing System User Guide
 
 ## Introduction
