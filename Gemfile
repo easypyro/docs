@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+# Use latest Jekyll, not github-pages
+gem "jekyll", "~> 4.3"
 
 # Optional: remote theme
 gem "jekyll-remote-theme"
