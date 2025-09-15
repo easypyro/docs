@@ -6,7 +6,6 @@ Thank you for purchasing a FireStorm Firing System. This firing system is design
 
 ## Power & Batteries
 
->[!WARNING] 
 >⚠️ **Note:** Do not use zinc-chloride batteries. They are the cheapest type, often branded "Heavy Duty".
 > These will not work in the firing system.
 
