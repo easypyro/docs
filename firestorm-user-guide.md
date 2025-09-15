@@ -1,6 +1,4 @@
----
-toc: true
----
+{% toc %}
 
 # FireStorm Firing System User Guide
 
