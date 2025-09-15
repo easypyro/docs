@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Thank you for purchasing a FireStorm Firing System. This firing system is designed for the safe and reliable wireless control of fireworks and pyrotechnics.
+Thank you for purchasing a FireStorm Firing System.
+
+This firing system is designed for the safe and reliable wireless control of fireworks and pyrotechnics.
 
 ## Power & Batteries
 
