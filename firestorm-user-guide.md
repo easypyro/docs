@@ -1,11 +1,4 @@
----
-title: My Page
-toc: true
----
-
 # FireStorm Firing System User Guide
-
-{% toc %}
 
 ## Introduction
 
