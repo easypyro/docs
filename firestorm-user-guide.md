@@ -1,3 +1,7 @@
+---
+toc: true
+---
+
 # FireStorm Firing System User Guide
 
 ## Introduction
