@@ -4,7 +4,7 @@ url: "https://docs.easypyro.com" # my custom domain
 baseurl: "" # leave empty for custom domain
 # theme: jekyll-theme-minimal
 remote_theme: pages-themes/primer@v0.6.0
-markdown: CommonMarkGhPages
+# markdown: CommonMarkGhPages
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
