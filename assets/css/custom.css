@@ -1,7 +1,7 @@
 /* Narrow the main content container */
 .container-lg, 
 .markdown-body {
-  max-width: 680px;  /* ChatGPT-like width */
+  max-width: 800px;  /* ChatGPT-like width */
   margin: 0 auto;    /* center on page */
 }
 
