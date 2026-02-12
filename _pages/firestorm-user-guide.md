@@ -1,3 +1,9 @@
+---
+layout: default
+title: Pyro Electrics for SFX
+permalink: /firestorm-user-guide/
+---
+
 # FireStorm Firing System User Guide
 
 ## Introduction
