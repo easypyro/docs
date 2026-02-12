@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pyro Electrics for SFX
+title: FireStorm User Guide
 permalink: /firestorm-user-guide/
 ---
 
