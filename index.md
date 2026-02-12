@@ -4,7 +4,9 @@ title: EasyPyro Help and Documentation
 ---
 
 # EasyPyro Help and Documentation
-This page is under construction. 
+<div class="flash flash-warn">
+  <strong>Warning:</strong> This page is under construction. 
+</div>
 
 The following links are available:
 
