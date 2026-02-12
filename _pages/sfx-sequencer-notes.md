@@ -1,6 +1,7 @@
 ---
 layout: default
 title: General Technical Notes
+permalink: /sfx-sequencer-notes/
 ---
 
 # General Technical Notes for SFX Sequencer and Remote
