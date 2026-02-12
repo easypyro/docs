@@ -1,3 +1,9 @@
+---
+layout: default
+title: Pyro Electrics for SFX
+permalink: /pyro-electrics-for-sfx/
+---
+
 # Pyro Electrics for SFX 
 ## The Only Guide You'll Ever Need
 ### Who is this for?

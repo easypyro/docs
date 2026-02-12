@@ -1,14 +1,16 @@
 ---
 layout: default
-title: Home
+title: EasyPyro Help and Documentation
 ---
 
-# Welcome
-This is my Markdown site hosted with GitHub Pages!
+# EasyPyro Help and Documentation
+This page is under construction. 
 
-# This is a test title
+The following links are available:
 
-## This is a smaller title.
 
-> This is a block quote
-> This is also a blockquote. 
+[FireStorm User Guide]({{ "/firestorm-user-guide/" | absolute_url }})
+
+[Pyro Electrics for SFX]({{ "/pyro-electrics-for-sfx/" | absolute_url }})
+
+[SFX Sequencer Notes]({{ "/sfx-sequencer-notes/" | absolute_url }})
