@@ -6,7 +6,7 @@ If you do electrical firing of pyrotechnics for concerts, sports events, battle 
 In fact, if you fire any sort of pyrotechnics electrically, this document is for you.
 
 ### Why should you listen to me?
-I'm an electrical engineer and I'm the owner of [easypyro.com](https:easypyro.com). My company is a manufacturer and supplier of pyrotechnic firing systems to customers around the world. I've been doing this since 2015, so I know a thing or two about the electrical firing of pyrotechnics. I've seen plenty of avoidable mishaps simply due to lack of basic electrical knowledge and understanding in the industry. 
+I'm an electrical engineer and I'm the owner of [easypyro.com](https://easypyro.com). My company is a manufacturer and supplier of pyrotechnic firing systems to customers around the world. I've been doing this since 2015, so I know a thing or two about the electrical firing of pyrotechnics. I've seen plenty of avoidable mishaps simply due to lack of basic electrical knowledge and understanding in the industry. 
 
 ### Why should you read this?
 You want a solid understanding of what's going on, so that when you press the fire button you **KNOW** what's going to happen. **There should be no chance involved.** If you read this you **WILL** understand how to avoid embarassing pyro failures and stop potentially dangerous misfires and no-blows.
