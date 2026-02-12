@@ -18,3 +18,27 @@
     padding: 0 1rem;
   }
 }
+
+/* Warning / callout boxes */
+.callout {
+  border-left: 4px solid #f39c12;  /* orange border */
+  background-color: #fff3cd;       /* light yellow background */
+  padding: 12px;
+  border-radius: 4px;
+  margin: 16px 0;
+}
+
+.callout-info {
+  border-left: 4px solid #17a2b8;  /* blue */
+  background-color: #d1ecf1;
+}
+
+.callout-error {
+  border-left: 4px solid #dc3545;  /* red */
+  background-color: #f8d7da;
+}
+
+.callout-success {
+  border-left: 4px solid #28a745;  /* green */
+  background-color: #d4edda;
+}

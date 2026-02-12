@@ -4,7 +4,7 @@ title: EasyPyro Help and Documentation
 ---
 
 # EasyPyro Help and Documentation
-<div class="flash flash-warn">
+<div class="callout">
   <strong>Warning:</strong> This page is under construction. 
 </div>
 
