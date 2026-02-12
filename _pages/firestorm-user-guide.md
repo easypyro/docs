@@ -14,19 +14,26 @@ This firing system is designed for the safe and reliable wireless control of fir
 
 ## Power & Batteries
 
->[!Warning]
->Do not use zinc-chloride batteries.
->They are the cheapest type, often branded "Heavy Duty".
->These will not work in the firing system.
+<div class="callout">
+  <strong>Warning:</strong> Do not use zinc-chloride batteries. They are often branded "Heavy Duty". These can not supply enough current. Only use disposable Alkaline or Lithium batteries.
+</div>
 
-Disposable Lithium batteries are preferred in the firing modules. They are preferred but not as critical in the remote controls.
+We recommend Energizer Industrial alkaline batteries. 
 
-Disposable Lithium batteries give several advantages over normal Alkaline batteries.
-* High current capability for reliable firing.
-* Excellent low temperature performance.
-* Higher capacity gives longer standby time and fewer battery changes.
-* No leaking or corrosion.
-* Very low self discharge rate.
+![Energizer Industrial 9V Battery](/images/energizer-9v.jpg)
+
+You can also use disposable Lithium batteries. 
+
+Lithium batteries have some advantages over Alkaline batteries.
+* High current capability.
+* Low temperature performance.
+* Higher overall capacity.
+* No leaking.
+* Low self discharge.
+
+However there are some disadvantages.
+* Significantly higher cost.
+* Unreliable battery level indication - the battery level readout on the firing modules is set for Alkaline batteries. 
 
 |Device|Batteries Required|External Power Connector?|Firing Voltage|
 |------|------------------|-------------------------|--------------|
@@ -44,7 +51,7 @@ Disposable Lithium batteries give several advantages over normal Alkaline batter
 3. Slide battery in first and attach battery clip securely.
 4. Reassemble.
 
->⚠️ **Note:** Back-rotate screws until you feel the threads engage, then hand tighten. This will prevent the threads from being stripped in the enclosure after repeated use. 
+<div class="callout-info">Counter rotate screws until you hear a "click", then hand tighten. This will prevent the threads from being stripped in the enclosure after repeated use.</div>
 
 ![IMG_2355](/images/rx1-battery-panel-1.jpg)
 ![IMG_2356](/images/rx1-battery-panel-1.jpg)
