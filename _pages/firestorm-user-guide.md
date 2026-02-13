@@ -51,7 +51,7 @@ However there are some disadvantages.
 3. Slide battery in first and attach battery clip securely.
 4. Reassemble.
 
-<div class="callout-info">Counter rotate screws until you hear a "click", then hand tighten. This will prevent the threads from being stripped in the enclosure after repeated use.</div>
+<div class="callout-info"><strong>Tip:</strong> Counter rotate screws until you hear a "click", then hand tighten. This will prevent the threads from being stripped in the enclosure after repeated use.</div>
 
 ![IMG_2355](/images/rx1-battery-panel-1.jpg)
 ![IMG_2356](/images/rx1-battery-panel-1.jpg)
