@@ -1,0 +1,67 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* All my custom CSS here. Primer Jekyll theme has barebones CSS, not to be confused with deeper Primer Spec which is the dull design language of Github */
+
+/* Narrow the main content container */
+.container-lg, 
+.markdown-body {
+  max-width: 800px;  /* ChatGPT-like width */
+  margin: 0 auto;    /* center on page */
+}
+
+/* Optional: make text more readable */
+.markdown-body {
+  line-height: 1.7;
+  font-size: 18px;
+}
+
+@media (max-width: 768px) {
+  .container-lg,
+  .markdown-body {
+    max-width: 95%;  /* almost full width on mobile */
+    padding: 0 1rem;
+  }
+}
+
+/* Warning / callout boxes */
+.callout {
+  border-left: 4px solid #f39c12;  /* orange border */
+  background-color: #fff3cd;       /* light yellow background */
+  padding: 12px;
+  border-radius: 4px;
+  margin: 16px 0;
+}
+
+.callout-info {
+  border-left: 4px solid #17a2b8;  /* blue */
+  background-color: #d1ecf1;
+  padding: 12px;
+  border-radius: 4px;
+  margin: 16px 0;
+}
+
+.callout-error {
+  border-left: 4px solid #dc3545;  /* red */
+  background-color: #f8d7da;
+  padding: 12px;
+  border-radius: 4px;
+  margin: 16px 0;
+}
+
+.callout-success {
+  border-left: 4px solid #28a745;  /* green */
+  background-color: #d4edda;
+  padding: 12px;
+  border-radius: 4px;
+  margin: 16px 0;
+}
+
+/* Redeuce image size */
+.img {
+  width: 50%;
+  height: auto; /* maintains aspect ratio */
+  border-radius: 8px; /* optional styling */
+}
