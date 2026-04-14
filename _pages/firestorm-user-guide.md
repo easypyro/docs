@@ -20,7 +20,7 @@ This firing system is designed for the safe and reliable wireless control of fir
 
 We recommend Energizer Industrial alkaline batteries. 
 
-![Energizer Industrial 9V Battery](/images/energizer-9v.jpg)
+![Energizer Industrial 9V Battery](/images/energizer-9v-side.jpg)
 
 You can also use disposable Lithium batteries. 
 
