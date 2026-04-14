@@ -4,7 +4,7 @@ title: EasyPyro Help and Documentation
 ---
 
 # EasyPyro Help and Documentation
-<div class="callout">
+<div class="callout-warning">
   <strong>Warning:</strong> This page is under construction. 
 </div>
 
