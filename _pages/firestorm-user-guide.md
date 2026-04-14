@@ -115,16 +115,16 @@ You can bond the firing modules as many times as you like to reconfigure your fi
 
 ### Module Bonding
 
-1. Connect antenna to module.
-2. Arm the module by turning the slide switch of key switch to ARM. Allow a few seconds for the module to start up.
-3. Press and HOLD the bond button for about 5s until the Bond LED is solid Orange. The unit is now waiting to be bonded to a remote. 
+- Connect antenna to module.
+- Arm the module by turning the slide switch of key switch to ARM. Allow a few seconds for the module to start up.
+- Press and HOLD the bond button for about 5s until the Bond LED is solid Orange. The unit is now waiting to be bonded to a remote. 
 
 >⚠️**Note:** Do not hold the bond button for longer than 15s until the Bond light goes out. This will reset the module.
 
 ### TX1 Bonding
 
-1. Connect antenna.
-2. Switch remote on by holding POWER button for about 1s.
+- Connect antenna.
+- Switch remote on by holding POWER button for about 1s.
 3. Ensure remote is disarmed (top right LED should be OFF). Display should be showing the currently selected Cue between [01] and [99].
 >⚠️**Note:** Remote must be disarmed for bonding. 
 4. Tap POWER button to enter **channel set mode**. Display will show [c1], [c2] .... [c9].
