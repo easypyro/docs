@@ -76,16 +76,16 @@ The system is designed so that a firing module is **bonded** to a remote control
 
 **Example:** An 6 cue module is bonded to a remote control set to Cue [01]. Cue [01] [02] [03] [04] [05] [06] on the remote control will now fire terminal 1,2,3,4,5,6 on the firing module. 
 
-**Example:** An 18 cue module is bonded to a remote control set to Cue [10]. Cue [10] ... [28] on the remote control will now fire terminal 1 ... 18 on the firing module. 
+**Example:** An 18 cue module is bonded to a remote control set to Cue [10]. Cue [10] → [28] on the remote control will now fire terminal 1 → 18 on the firing module. 
 
 **More examples below:**
 
 |Module Type|Starting cue (what the remote shows) ...|Module will fire on ...|
 |-----------|------------|---------------------------------------|
-|RX6 (6 cue module)|[01]|[01] - [06]|
-|RX6 (6 cue module)|[07]|[07] - [12]|
-|RX36 (36 cue module)|[01]|[01] - [36]|
-|RX36 (36 cue module)|[37]|[37] - [54]|
+|RX6 (6 cue module)|[01]|[01] → [06]|
+|RX6 (6 cue module)|[07]|[07] → [12]|
+|RX36 (36 cue module)|[01]|[01] → [36]|
+|RX36 (36 cue module)|[37]|[37] → [54]|
 
 ### Bonding
 
@@ -109,7 +109,7 @@ Channels are useful for dividing your show when using multiple firing modules. F
 
 ### Cue Number
 
-A cue is the identifying number of a terminal on the firing module that you connect the igniter to. For example the RX6 firing module has 6 cues and the RX36 has 36 cues.
+A cue is the identifying number of a terminal on the firing module. For example the RX6 firing module has 6 cues to connect igniters. The RX36 has 36 cues to connect igniters. 
 
 ## Bonding Introduction
 
@@ -129,52 +129,41 @@ You can bond the firing modules as many times as you like to reconfigure your fi
 
 ## Bonding Procedure
 
-### Module Bonding
+### 1. Place firing module in Bonding Mode
 
 - Connect antenna to module.
-- Arm the module by turning the slide switch (RX1 or RX6) or key switch (RX18 or RX36) to ARM. Allow a few seconds for the module to start up.
-- Press and **hold** the bond button for about 5 seconds until the bond LED is solid Orange. The unit is now waiting to be bonded to a remote. 
+- Arm the module by setting slide switch (RX1 or RX6) or key switch (RX18 or RX36) to ARM. Allow a few seconds for the module to start up.
+- Press and **hold** the bond button for about **5 seconds** until the bond LED is solid Orange. The module is now in bonding mode and ready to be linked to a remote control.  
 
 <div class="callout-note">
   <strong>Note:</strong> Do not hold the bond button for until the bond LED switches off (~15 seconds). This will reset the module.
 </div>
+### 2. Set Channel and Cue on Remote Control
 
-### TX1 Bonding
+#### TX1 Handheld Remote
 
 - Connect antenna.
-- Switch remote on by holding POWER button for about 1s.
-- Ensure remote is disarmed (top right LED should be OFF). Display should be showing the currently selected Cue between [01] and [99].
-
-<div class="callout">
-  <strong>Note:</strong> Remote must be disarmed for bonding. 
+- Switch remote on by holding power button for about 1s.
+- Ensure remote is disarmed (top right LED should be off). Display should be showing the currently selected Cue between [01] and [99].
+<div class="callout-warning">
+  <strong>Warning:</strong> Remote must be disarmed for bonding! Module will not bond when remote is armed. 
 </div>
-4. Tap POWER button to enter **channel set mode**. Display will show [c1], [c2] .... [c9].
-5. Select desired channel with arrow buttons. In general, you will leave this set to [c1].
-6. Tap POWER button again to exit **channel set mode**. Display will return to currently selected Cue.
-7. Set desired starting cue for the module. In general you will leave this set to [01].
-8. Press and release the FIRE button.
-9. Module BOND LED will extinguish and return to flashing the battery level every 5 seconds. 
-10. The middle light on the remote will now be either RED or GREEN to show the continuity status of the currently selected cue. If an igniter is connected, it will be GREEN. If there is no igniter, it will be RED.
+- Press and release power button to enter **channel set mode**. Many users will never have to do this, and will leave the remote always on Channel 1. Display will show [c1], [c2] → [c9].Select desired channel with arrow buttons. In general, you will leave this set to [c1].
+- Tap POWER button again to exit **channel set mode**. Display will return to the currently selected cue [01] →[99].
+- Set desired starting cue for the module. If you only have 1 module, generally lleave this set to [01].
+- Press and release the fire button.
+- Module bond LED will extinguish and return to flashing the battery level every 5 seconds. 
+- The middle light on the remote will now be either RED or GREEN to show the continuity status of the currently selected cue. If an igniter is connected, it will be GREEN. If there is no igniter, it will be RED.
+<div class="callout-tip">
+  <strong>Tip:</strong> The remote link LED is updated 1 x per second to show the continuity status of the selected cue. 
+</div>
 
->⚠️**Note:** The remote link light updated 1x per second, to show the continuity status of the selected cue. 
-
-|Link Light|Status|
-|----------|------|
+|Link LED|Status|
+|---------|------|
 |⚪ Off   |No signal|
 |🟢 Green |Good Continuity, igniter connected|
 |🔴 Red   |Bad continuity, no igniter connected|
 
 
-### TX2 Bonding
+#### TX2 Control Desk Remote
 
-## TX1 Handheld Remote Control
-
-## TX2 Control Desk Remote Control
-
-### Bond Module
-
-##RX1 Firing Module
-
-##RX6 Firing Module
-
-##RX36 Firing Module
