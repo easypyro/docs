@@ -133,7 +133,8 @@ You can bond the firing modules as many times as you like to reconfigure your fi
 
 - Connect antenna to module.
 - Arm the module by setting slide switch (RX1 or RX6) or key switch (RX18 or RX36) to ARM. Allow a few seconds for the module to start up.
-- Press and **hold** the bond button for about **5 seconds** until the bond LED is solid Orange. The module is now in bonding mode and ready to be linked to a remote control.  
+- Press and **hold** the bond button for about **5 seconds** until the bond LED is solid Orange 🟠.
+(🟠 = The module is now in bonding mode and ready to be linked to a remote control.)
 
 <div class="callout-note">
   <strong>Note:</strong> Do not hold the bond button for until the bond LED switches off (~15 seconds). This will reset the module.
@@ -141,6 +142,8 @@ You can bond the firing modules as many times as you like to reconfigure your fi
 ### 2. Set Channel and Cue on Remote Control
 
 #### TX1 Handheld Remote
+
+![tx1-remote](../images/tx1.jpg)
 
 - Connect antenna.
 - Switch remote on by holding power button for about 1s.
@@ -150,12 +153,12 @@ You can bond the firing modules as many times as you like to reconfigure your fi
 </div>
 - Press and release power button to enter **channel set mode**. Many users will never have to do this, and will leave the remote always on Channel 1. Display will show [c1], [c2] → [c9].Select desired channel with arrow buttons. In general, you will leave this set to [c1].
 - Tap POWER button again to exit **channel set mode**. Display will return to the currently selected cue [01] →[99].
-- Set desired starting cue for the module. If you only have 1 module, generally lleave this set to [01].
+- Set desired starting cue for the module. If you only have 1 module, generally leave this set to [01].
 - Press and release the fire button.
 - Module bond LED will extinguish and return to flashing the battery level every 5 seconds. 
 - The middle light on the remote will now be either RED or GREEN to show the continuity status of the currently selected cue. If an igniter is connected, it will be GREEN. If there is no igniter, it will be RED.
-<div class="callout-tip">
-  <strong>Tip:</strong> The remote link LED is updated 1 x per second to show the continuity status of the selected cue. 
+<div class="callout-note">
+  <strong>Note:</strong> The remote link LED is updated 1 x per second to show the continuity status of the selected cue. 
 </div>
 
 |Link LED|Status|
@@ -164,6 +167,7 @@ You can bond the firing modules as many times as you like to reconfigure your fi
 |🟢 Green |Good Continuity, igniter connected|
 |🔴 Red   |Bad continuity, no igniter connected|
 
-
 #### TX2 Control Desk Remote
+
+![tx2-remote](../images/tx2.jpg)
 
