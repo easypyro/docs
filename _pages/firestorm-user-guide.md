@@ -51,7 +51,7 @@ However there are some disadvantages.
 3. Slide battery in first and attach battery clip securely. Note the correct orientation of the battery for the clip to attach.
 4. Reassemble.
 
-<div class="callout-info"><strong>Tip:</strong> Counter rotate screws until you hear a "click", then hand tighten. This will prevent the threads from being stripped in the enclosure after repeated use.</div>
+<div class="callout-tip"><strong>Tip:</strong> Counter rotate screws until you hear a "click", then hand tighten. This will prevent the threads from being stripped in the enclosure after repeated use.</div>
 
 ![IMG_2355](../images/rx1-battery-panel-1.jpg)
 ![IMG_2356](../images/rx1-battery-panel-2.jpg)
@@ -62,11 +62,11 @@ However there are some disadvantages.
 - Remove 2 x screws on antenna end marked with silver dot.
 - Remove terminal end panel and plastic bezel.
 - Slide lid away from you.
-<div class="callout-info"><strong>Tip:</strong> The lid can be stiff. Grip module in both hands, place thumbs on lid, and push away from you firmly. A slight opening / bending pressure on the module can open the "C" shape of the module and let the lid slide easily.</div>
+<div class="callout-tip"><strong>Tip:</strong> The lid can be stiff. Grip module in both hands, place thumbs on lid, and push away from you firmly. A slight opening / bending pressure on the module can open the "C" shape of the module and let the lid slide easily.</div>
 - Lever battery in at and angle and push down. Squeeze battery onto contacts. Ensure battery is properly engaged with contacts. 
 <div class="callout-warning"><strong>Warning:</strong> To remove batteries lever them <strong>up and out</strong> as shown. If you push them away from the contacts,, the battery can release suddenly and potentially damage components behind it. </div>
 - Reassemble.
-<div class="callout-info"><strong>Tip:</strong> Counter rotate screws until you hear a "click", then hand tighten. This will prevent the threads from being stripped in the enclosure after repeated use.</div>
+<div class="callout-tip"><strong>Tip:</strong> Counter rotate screws until you hear a "click", then hand tighten. This will prevent the threads from being stripped in the enclosure after repeated use.</div>
 ![IMG_2352](../images/rx6-battery-panel-1.jpg)
 ![IMG_2354](../images/rx6-battery-panel-2.jpg)
 
