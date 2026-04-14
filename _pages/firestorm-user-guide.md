@@ -107,7 +107,9 @@ Finally if the remote control is set to say Channel 1 and Cue 10, and you bond t
 
 You can bond the firing modules as many times as you like to reconfigure your firing system for different shows and setups. This easy bonding procedure is one of the powerful features of the FireStorm Firing System.
 
->⚠️ **Note:** When bonding your modules to a remote control, only bond 1 module at a time. Do not attempt to bond multiple modules at the same time. Bond the modules 1 by 1. 
+<div class="callout">
+  <strong>Warning:</strong> When bonding your modules to a remote control, only bond 1 module at a time. Do not attempt to bond multiple modules at the same time. Bond the modules 1 by 1.
+</div>
 
 ## Bonding Procedure
 
